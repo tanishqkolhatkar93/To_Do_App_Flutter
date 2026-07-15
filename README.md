@@ -38,11 +38,11 @@ This project demonstrates clean UI/UX, structured state updates, date picking, a
 
 # 📸 Screenshots
 
-![Alt text](https://github.com/tanishqkolhatkar93/To_Do_App_Flutter/blob/main/Screenshot%202025-11-10%20182856.png)   
+![Do_Decker_App](https://github.com/tanishqkolhatkar93/To_Do_App_Flutter/blob/main/Screenshot%202025-11-10%20182856.png)   
 
-![Alt text](https://github.com/tanishqkolhatkar93/To_Do_App_Flutter/blob/main/Screenshot%202025-11-10%20183137.png) 
+![Do_Decker_App](https://github.com/tanishqkolhatkar93/To_Do_App_Flutter/blob/main/Screenshot%202025-11-10%20183137.png) 
 
-![Alt_text](images/filename.png)  
+![Do_Decker_App](https://github.com/tanishqkolhatkar93/To_Do_App_Flutter/blob/main/Screenshot%202025-11-10%20183150.png)  
 
 
 
