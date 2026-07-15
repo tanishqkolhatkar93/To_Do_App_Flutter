@@ -38,12 +38,14 @@ This project demonstrates clean UI/UX, structured state updates, date picking, a
 
 # 📸 Screenshots
 
-> Add your screenshots inside a folder like  
-> `assets/screenshots/` and reference them like this:
+![Alt text](images/filename.png)   
 
-```
-![Home Screen](assets/screenshots/home.png)
-![Add Task](assets/screenshots/add_task.png)
+![Alt text](images/filename.png) 
+
+![Alt_text](images/filename.png)  
+
+
+
 ```
 
 ---
